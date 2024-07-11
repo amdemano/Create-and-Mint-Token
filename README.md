@@ -87,6 +87,7 @@ For common issues or troubleshooting:
 
 ```bash
 npx hardhat help
+```
 
 ## Authors
 Ashley Demano
